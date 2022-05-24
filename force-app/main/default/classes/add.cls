@@ -9,4 +9,5 @@ public with sharing class add {
      public static void substraction(Integer a, Integer b)
      {
          Integer c=a-b;
-}}
+     }
+}
