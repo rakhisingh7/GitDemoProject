@@ -18,4 +18,8 @@ public with sharing class add {
      {
          Integer o=m/n;
      }
+     public static void modulus(Integer n, Integer m)
+     {
+         Integer o=m/n;
+     }
 }
