@@ -10,4 +10,8 @@ public with sharing class add {
      {
          Integer c=a-b;
      }
+     public static void multiply(Integer a, Integer b)
+     {
+         Integer c=a*b;
+     }
 }
