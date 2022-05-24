@@ -6,4 +6,8 @@ public with sharing class add {
      {
          Integer z=x+y;
      }
+     public static void substraction(Integer a, Integer b)
+     {
+         Integer c=a-b;
+     }
 }
